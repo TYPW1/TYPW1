@@ -55,9 +55,9 @@ Anime Recommendation
 ## 📫 How to reach me:
 You can reach me at:
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white): <pierretypw@gmail.com>
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white): TITCHEU YAMDJEU Pierre Wilfried
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white): typw01
+- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white): <pierretypw@gmail.com>
+- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white): TITCHEU YAMDJEU Pierre Wilfried
+- ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white): typw01
 
 ## ⚡ Fun fact:
 <Share a fun fact about yourself>
