@@ -1,6 +1,6 @@
 ### Hello, I'm Titcheu Yamdjeu Pierre Wilfried 👋
 
-![Banner](<Banner.jpg>)
+![Banner](<banner.jpg>)
 
 ## 👨‍💻 Technical Skills
 
@@ -10,7 +10,7 @@ Here are a few technologies I've been working with recently:
 * C
 * JavaScript
 * R
-* HTML```
+* HTML
 
 ## 📈 GitHub Stats
 < Insert images of your GitHub stats graphs or charts here >
