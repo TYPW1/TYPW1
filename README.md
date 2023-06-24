@@ -11,7 +11,7 @@ Here are a few technologies I've been working with recently:
 * JavaScript
 * R
 * HTML
-´´´
+```
 
 ## 📈 GitHub Stats
 < Insert images of your GitHub stats graphs or charts here >
