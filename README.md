@@ -26,11 +26,11 @@ Here are a few technologies I've been working with recently:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TYPW1&show_icons=true&theme=radical)
 
 ## 🌍 Languages
-<img src="pie-chart.png" alt="Pie Chart" width="50"/>
+<img src="pie-chart.png" alt="Pie Chart" width="200"/>
 
 ## 🏆 Achievements
 - **Expert in Multiple Programming Languages:** Proficient in C, JavaScript, R, and HTML, with numerous successful projects to show for each.
-- **Active GitHub User:** With 27 repositories and counting, I'm always working on something new! [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TYPW1&show_icons=true&theme=radical)](https://github.com/TYPW1/github-readme-stats)
+- **Active GitHub User:** With 27 repositories and counting, I'm always working on something new!.
 - **Collaborative and Customer-oriented:** With experience in both programming and customer service, I'm equipped to handle both technical challenges and team dynamics.
 - **Lifelong Learner:** I'm constantly working to expand my knowledge and skills. Right now, I'm learning Python along side kubernetes.
 - **Language Proficiency:** Fluent in both English and French, which allows me to work effectively in diverse international teams.
