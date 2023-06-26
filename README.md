@@ -21,8 +21,7 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TYPW1&show_icons=true&theme=radical)
 
 ## 🌍 Languages
-ENGLISH 
-FRENCH  
+ENGLISH and FRENCH  
 
 ## 🏆 Achievements
 - **Multilingual Programmer:** Skilled in C, JavaScript, R, HTML, and currently learning Python and Kubernetes.
@@ -33,11 +32,11 @@ FRENCH
 - **Innovative Developer:** Created a Java-based chat app for anime enthusiasts.
 
 ## 📚 Projects
-AES Implementation
-R-Shiny Dashboard app
-ECharts2Shiny implementation
-Cename API
-Anime Recommendation
+- AES Implementation
+- R-Shiny Dashboard app
+- ECharts2Shiny implementation
+- Cename API
+- Anime Recommendation
 
 ## 🌱 I’m currently learning ...
 Immersing myself in the world of Python and Kubernetes, diving deep into container orchestration and network automation.
@@ -52,9 +51,9 @@ Optimizing algorithms for my Java-based Anime Chat app. If you're a Java guru wi
 Anything from C programming intricacies to customer service strategies, or even my favorite anime series! I'm here to share my experiences and learn from yours.
 
 ## 📫 How to reach me:
-- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white): <pierretypw@gmail.com>
-- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white): TITCHEU YAMDJEU Pierre Wilfried
-- ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white): typw01
+- ![Gmail]: <pierretypw@gmail.com>
+- ![LinkedIn]: TITCHEU YAMDJEU Pierre Wilfried
+- ![Twitter]: typw01
 
 ## ⚡ Fun fact:
 I can watch anime without substitles! Yes, you read that right - Sigma at its finest!
