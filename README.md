@@ -1,11 +1,6 @@
-  ### Hello, I'm Titcheu Yamdjeu Pierre Wilfried 👋
-
-![Banner](<banner.jpg>)
+### Hello, I'm Titcheu Yamdjeu Pierre Wilfried :wave:
 
 ## 👨‍💻 Technical Skills
-
-Here are a few technologies I've been working with recently:
-
  ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -26,20 +21,18 @@ Here are a few technologies I've been working with recently:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TYPW1&show_icons=true&theme=radical)
 
 ## 🌍 Languages
-<img src="pie-chart.png" alt="Pie Chart" width="200"/>
+ENGLISH 
+FRENCH  
 
 ## 🏆 Achievements
-- **Expert in Multiple Programming Languages:** Proficient in C, JavaScript, R, and HTML, with numerous successful projects to show for each.
-- **Active GitHub User:** With 27 repositories and counting, I'm always working on something new!.
-- **Collaborative and Customer-oriented:** With experience in both programming and customer service, I'm equipped to handle both technical challenges and team dynamics.
-- **Lifelong Learner:** I'm constantly working to expand my knowledge and skills. Right now, I'm learning Python along side kubernetes.
-- **Language Proficiency:** Fluent in both English and French, which allows me to work effectively in diverse international teams.
-- **Pull Shark Achievement:** For my significant contributions to collaborative projects on GitHub.
-- **Anime Chat app Engine:** Developed a Java-based recommendation engine to help anime enthusiasts chat with their next favorite series.
+- **Multilingual Programmer:** Skilled in C, JavaScript, R, HTML, and currently learning Python and Kubernetes.
+- **Active GitHub Contributor:** Managed over 27 repositories, demonstrating my passion for constant learning and collaboration.
+- **Skilled Communicator:** Leveraging my background in customer service to navigate team dynamics and technical challenges effectively.
+- **Bilingual Professional:** Fluent in English and French, enhancing my effectiveness in international teams.
+- **Pull Shark:** Recognized for my substantial contributions to GitHub projects.
+- **Innovative Developer:** Created a Java-based chat app for anime enthusiasts.
 
 ## 📚 Projects
-Here are some of the projects that I've worked on:
-
 AES Implementation
 R-Shiny Dashboard app
 ECharts2Shiny implementation
@@ -47,23 +40,21 @@ Cename API
 Anime Recommendation
 
 ## 🌱 I’m currently learning ...
-<Describe what you are currently learning>
+Immersing myself in the world of Python and Kubernetes, diving deep into container orchestration and network automation.
 
 ## 👯 I’m looking to collaborate on ...
-<Describe the kind of projects or technologies you are looking to collaborate on>
+Intriguing projects that push the boundaries of web development and data visualization. If you're passionate about transforming raw data into meaningful insights, let's join forces!
 
 ## 🤔 I’m looking for help with ...
-<Describe what you need help with>
-  
+Optimizing algorithms for my Java-based Anime Chat app. If you're a Java guru with a knack for efficiency, I'd love to learn from you!
+
 ## 💬 Ask me about ...
-<Describe what people can ask you about, such as areas of expertise or interests>
+Anything from C programming intricacies to customer service strategies, or even my favorite anime series! I'm here to share my experiences and learn from yours.
 
 ## 📫 How to reach me:
-You can reach me at:
-
 - ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white): <pierretypw@gmail.com>
 - ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white): TITCHEU YAMDJEU Pierre Wilfried
 - ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white): typw01
 
 ## ⚡ Fun fact:
-<Share a fun fact about yourself>
+I can watch anime without substitles! Yes, you read that right - Sigma at its finest!
