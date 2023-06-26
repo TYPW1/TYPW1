@@ -26,10 +26,16 @@ Here are a few technologies I've been working with recently:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TYPW1&show_icons=true&theme=radical)
 
 ## 🌍 Languages
-![Pie Chart](pie-chart.png)
+<img src="pie-chart.png" alt="Pie Chart" width="50"/>
 
 ## 🏆 Achievements
-< Insert an image or list of your achievements here >
+- **Expert in Multiple Programming Languages:** Proficient in C, JavaScript, R, and HTML, with numerous successful projects to show for each.
+- **Active GitHub User:** With 27 repositories and counting, I'm always working on something new! [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TYPW1&show_icons=true&theme=radical)](https://github.com/TYPW1/github-readme-stats)
+- **Collaborative and Customer-oriented:** With experience in both programming and customer service, I'm equipped to handle both technical challenges and team dynamics.
+- **Lifelong Learner:** I'm constantly working to expand my knowledge and skills. Right now, I'm learning Python along side kubernetes.
+- **Language Proficiency:** Fluent in both English and French, which allows me to work effectively in diverse international teams.
+- **Pull Shark Achievement:** For my significant contributions to collaborative projects on GitHub.
+- **Anime Chat app Engine:** Developed a Java-based recommendation engine to help anime enthusiasts chat with their next favorite series.
 
 ## 📚 Projects
 Here are some of the projects that I've worked on:
