@@ -26,7 +26,7 @@ Here are a few technologies I've been working with recently:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TYPW1&show_icons=true&theme=radical)
 
 ## 🌍 Languages
-< Insert a pie chart or other graphic representing your language distribution here >
+![Pie Chart](pie-chart.png)
 
 ## 🏆 Achievements
 < Insert an image or list of your achievements here >
