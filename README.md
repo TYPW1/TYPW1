@@ -26,19 +26,17 @@
 ENGLISH and FRENCH  
 
 ## 🏆 Achievements
-- **Multilingual Programmer:** Skilled in C, JavaScript, R, HTML, and currently learning Python and Kubernetes.
-- **Active GitHub Contributor:** Managed over 27 repositories, demonstrating my passion for constant learning and collaboration.
-- **Skilled Communicator:** Leveraging my background in customer service to navigate team dynamics and technical challenges effectively.
-- **Bilingual Professional:** Fluent in English and French, enhancing my effectiveness in international teams.
-- **Pull Shark:** Recognized for my substantial contributions to GitHub projects.
-- **Innovative Developer:** Created a Java-based chat app for anime enthusiasts.
+- **Multilingual Programmer:** Proficient in C, JavaScript, R, HTML, Python, and Gitlab.
+- **Active GitHub Contributor:** Currently managing over 38 repositories.
+- **Skilled Communicator:** Experienced in customer service and team dynamics.
+- **Bilingual Professional:** Fluent in English and French.
+- **GitHub Achievements:** Quickdraw, Pull Sharkx2.
 
 ## 📚 Projects
-- AES Implementation
-- R-Shiny Dashboard app
-- ECharts2Shiny implementation
-- Cename API
-- Anime Recommendation
+- **Energy Calculations SaaS (E4L):** A 3-tier application for energy calculations.
+- **Anime Recommendation System:** A Shiny web app providing personalized anime recommendations.
+- **StrawHat Chat:** A Python-built chat application for One Piece enthusiasts.
+- **MedConnect:** A web app connecting medical professionals in Western Africa.
 
 ## 🌱 I’m currently learning ...
 Immersing myself in the world of Python and Kubernetes, diving deep into container orchestration and network automation.
