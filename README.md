@@ -21,22 +21,9 @@
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TYPW1&show_icons=true&theme=radical)
-[![](https://raw.githubusercontent.com/RUNFUNRUN/RUNFUNRUN/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/RUNFUNRUN/RUNFUNRUN/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/RUNFUNRUN/RUNFUNRUN/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/RUNFUNRUN/RUNFUNRUN/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/RUNFUNRUN/RUNFUNRUN/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-## Technologies I'm studing and interested in
-
-<div>
-  <img width="50" src="https://github.com/RUNFUNRUN/RUNFUNRUN/assets/90281553/22d44b77-dc80-4ce4-a371-dc98a65c542d" alt="Rust" title="Rust"/>
-  <img width="50" src="https://github.com/RUNFUNRUN/RUNFUNRUN/assets/90281553/4ceb780d-dd4d-4d46-abb7-8d2eedd0dc80" alt="Tauri" title="Tauri"/>
-  <img width="50" src="https://github.com/RUNFUNRUN/RUNFUNRUN/assets/90281553/7dd63e03-205b-4075-a953-0cee4963ced8" alt="Zig" title="Zig"/>
-  <img width="50" src="https://github.com/RUNFUNRUN/RUNFUNRUN/assets/90281553/273c689f-07e0-4c9b-8347-e6d7e1681502" alt="Go" title="Go"/>
-  <img width="50" src="https://github.com/RUNFUNRUN/RUNFUNRUN/assets/90281553/6ee4a61a-ed19-4657-a9e8-5cd95b7b7dbe" alt="WASM" title="WASM"/>
-  <img width="50" src="https://github.com/RUNFUNRUN/RUNFUNRUN/assets/90281553/b11de53d-1b0d-4e56-b1c2-1a36d7fbe2ad" alt="AWS" title="AWS"/>
-  <img width="50" src="https://github.com/RUNFUNRUN/RUNFUNRUN/assets/90281553/9067c326-5270-4d88-914c-2509457724ca" alt="K8S" title="K8S"/>
-  and more ...
-</div>
+[![](https://raw.githubusercontent.com/TYPW1/TYPW1/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/TYPW1/TYPW1/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/RUNFUNRUN/RUNFUNRUN/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/TYPW1/TYPW1/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/RUNFUNRUN/RUNFUNRUN/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ## 🌍 Languages
 ENGLISH and FRENCH  
